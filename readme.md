@@ -4,6 +4,6 @@
 2º Campo checkbox
 3º Imagem centralizada
 
-Link do formulário:
+Link do formulário:https://srteles.github.io/form2/
 
 <img src="imagem/img2.png" alt="imagem do desafio">
